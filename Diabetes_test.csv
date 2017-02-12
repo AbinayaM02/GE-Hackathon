@@ -1,0 +1,73 @@
+location,gender,Age,frame,WH_Category,BMI,BP,CholestrolRatio,Stabilized Glucose,GLYHB
+Buckingham,male,old,large,overweight,Overweight,Pre Hypertension,suboptimal,Prediabetic,Low
+Buckingham,female,adult,medium,obese,Normal,Normal,suboptimal,Normal,Low
+Louisa,female,old,medium,obese,Overweight,Stage1 Hypertension,suboptimal,Normal,Low
+Buckingham,female,adult,medium,obese,Overweight,Normal,optimal,Normal,Low
+Buckingham,male,Middle age,large,obese,Overweight,Pre Hypertension,optimal,Normal,Low
+Buckingham,male,adult,medium,Normal,Overweight,Stage1 Hypertension,suboptimal,Normal,Low
+Louisa,female,Middle age,medium,obese,Overweight,Pre Hypertension,suboptimal,Normal,Low
+Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Louisa,female,Middle age,medium,overweight,Overweight,Stage1 Hypertension,suboptimal,Prediabetic,High
+Louisa,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,suboptimal,Normal,High
+Louisa,female,adult,small,obese,Overweight,Pre Hypertension,suboptimal,Normal,Low
+Louisa,male,adult,large,obese,Overweight,Normal,suboptimal,Normal,Low
+Buckingham,male,adult,medium,Normal,Normal,Pre Hypertension,optimal,Normal,Low
+Buckingham,female,adult,small,Normal,Normal,Normal,suboptimal,Normal,Low
+Louisa,male,old,small,Normal,Normal,Pre Hypertension,suboptimal,Normal,Low
+Buckingham,female,old,medium,overweight,Overweight,Stage1 Hypertension,optimal,Diabetic,High
+Buckingham,female,adult,medium,Normal,Overweight,Stage2 Hypertension,optimal,Normal,Low
+Louisa,male,Middle age,medium,obese,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Buckingham,female,adult,small,Normal,Overweight,Normal,optimal,Normal,Low
+Buckingham,female,adult,medium,obese,Overweight,Pre Hypertension,suboptimal,Normal,Low
+Buckingham,female,Middle age,small,overweight,Normal,Stage2 Hypertension,optimal,Normal,Low
+Louisa,female,Young Adult,small,Normal,Normal,Pre Hypertension,optimal,Normal,Low
+Buckingham,male,adult,small,obese,Normal,Stage2 Hypertension,optimal,Normal,Low
+Buckingham,female,adult,large,obese,Overweight,Normal,suboptimal,Normal,Low
+Louisa,female,Middle age,small,obese,Overweight,Stage1 Hypertension,suboptimal,Normal,High
+Buckingham,female,adult,small,Normal,Normal,Pre Hypertension,optimal,Normal,Low
+Buckingham,male,Middle age,large,overweight,Overweight,Normal,suboptimal,Normal,Low
+Buckingham,female,adult,small,obese,Normal,Stage2 Hypertension,optimal,Normal,Low
+Buckingham,male,adult,medium,Normal,Normal,Pre Hypertension,optimal,Normal,Low
+Louisa,male,adult,large,Normal,Overweight,Stage1 Hypertension,suboptimal,Normal,High
+Louisa,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Louisa,male,adult,medium,obese,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Louisa,female,adult,small,obese,Normal,Normal,suboptimal,Normal,Low
+Louisa,male,old,medium,obese,Overweight,Pre Hypertension,suboptimal,Normal,High
+Buckingham,female,Middle age,medium,overweight,Overweight,Pre Hypertension,suboptimal,Normal,Low
+Louisa,female,adult,medium,obese,Overweight,Pre Hypertension,suboptimal,Normal,Low
+Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,optimal,Normal,Low
+Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Louisa,female,adult,small,overweight,Overweight,Pre Hypertension,optimal,Normal,Low
+Buckingham,female,adult,large,overweight,Overweight,Normal,suboptimal,Normal,Low
+Louisa,male,adult,small,Normal,Normal,Normal,optimal,Normal,Low
+Louisa,female,Middle age,small,obese,Overweight,Normal,suboptimal,Prediabetic,High
+Buckingham,male,Middle age,medium,Normal,Normal,Pre Hypertension,suboptimal,Normal,Low
+Louisa,female,adult,small,obese,Overweight,Normal,suboptimal,Normal,High
+Louisa,female,adult,large,obese,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Louisa,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,optimal,Normal,Low
+Louisa,male,old,large,obese,Overweight,Stage2 Hypertension,suboptimal,Prediabetic,Low
+Buckingham,female,Middle age,medium,overweight,Overweight,Pre Hypertension,optimal,Normal,Low
+Louisa,male,adult,medium,obese,Overweight,Pre Hypertension,suboptimal,Normal,Low
+Buckingham,female,adult,large,obese,Overweight,Stage1 Hypertension,suboptimal,Normal,Low
+Louisa,male,adult,medium,Normal,Normal,Pre Hypertension,optimal,Normal,Low
+Buckingham,female,Middle age,large,overweight,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Louisa,male,Middle age,large,overweight,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Buckingham,female,adult,small,obese,Overweight,Pre Hypertension,optimal,Normal,Low
+Buckingham,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,suboptimal,Diabetic,High
+Louisa,male,Young Adult,medium,Normal,Normal,Normal,optimal,Normal,Low
+Louisa,female,adult,small,obese,Overweight,Normal,suboptimal,Normal,Low
+Buckingham,male,adult,medium,Normal,Normal,Pre Hypertension,optimal,Normal,Low
+Louisa,female,old,small,overweight,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Louisa,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,suboptimal,Normal,High
+Buckingham,female,adult,small,obese,Overweight,Normal,suboptimal,Normal,Low
+Louisa,male,Middle age,medium,obese,Normal,Pre Hypertension,optimal,Normal,Low
+Buckingham,male,old,medium,obese,Normal,Pre Hypertension,suboptimal,Normal,Low
+Louisa,male,Middle age,small,obese,Overweight,Stage2 Hypertension,suboptimal,Normal,Low
+Louisa,male,adult,large,Normal,Overweight,Pre Hypertension,suboptimal,Normal,Low
+Buckingham,male,Middle age,medium,obese,Overweight,Normal,suboptimal,Diabetic,High
+Louisa,female,adult,medium,obese,Overweight,Stage2 Hypertension,optimal,Normal,Low
+Louisa,male,adult,large,obese,Overweight,Pre Hypertension,suboptimal,Normal,Low
+Louisa,male,Middle age,medium,obese,Overweight,Stage1 Hypertension,suboptimal,Normal,Low
+Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,suboptimal,Diabetic,High
+Louisa,male,adult,medium,obese,Normal,Normal,suboptimal,Prediabetic,Low
+Buckingham,female,old,large,obese,Overweight,Stage1 Hypertension,optimal,Normal,High

@@ -1,0 +1,367 @@
+id,location,gender,Age,frame,WH_Category,BMI,BP,Total Cholestrol,HDL category,CholestrolRatio,Stabilized Glucose,GLYHB
+17834,Buckingham,male,old,large,overweight,Overweight,Pre Hypertension,Normal,Too Low,suboptimal,Prediabetic,Low
+10014,Buckingham,female,adult,medium,obese,Normal,Normal,Normal,Too Low,suboptimal,Normal,Low
+4803,Louisa,female,old,medium,obese,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Normal,Low
+2750,Buckingham,female,adult,medium,obese,Overweight,Normal,Normal,Good,optimal,Normal,Low
+1253,Buckingham,male,Middle age,large,obese,Overweight,Pre Hypertension,Boderline,Excellent,optimal,Normal,Low
+17817,Buckingham,male,adult,medium,Normal,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+21329,Louisa,female,Middle age,medium,obese,Overweight,Pre Hypertension,High,Too Low,suboptimal,Normal,Low
+1305,Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+4771,Louisa,female,Middle age,medium,overweight,Overweight,Stage1 Hypertension,High,Good,suboptimal,Prediabetic,High
+4787,Louisa,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,High,Too Low,suboptimal,Normal,High
+21343,Louisa,female,adult,small,obese,Overweight,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+20308,Louisa,male,adult,large,obese,Overweight,Normal,Normal,Good,suboptimal,Normal,Low
+15787,Buckingham,male,adult,medium,Normal,Normal,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+20254,Buckingham,female,adult,small,Normal,Normal,Normal,Normal,Too Low,suboptimal,Normal,Low
+40805,Louisa,male,old,small,Normal,Normal,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+2791,Buckingham,female,old,medium,overweight,Overweight,Stage1 Hypertension,Boderline,Excellent,optimal,Diabetic,High
+15766,Buckingham,female,adult,medium,Normal,Overweight,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+17754,Louisa,male,Middle age,medium,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+15818,Buckingham,female,adult,small,Normal,Overweight,Normal,Normal,Good,optimal,Normal,Low
+12772,Buckingham,female,adult,medium,obese,Overweight,Pre Hypertension,High,Too Low,suboptimal,Normal,Low
+15763,Buckingham,female,Middle age,small,overweight,Normal,Stage2 Hypertension,High,Excellent,optimal,Normal,Low
+20337,Louisa,female,Young Adult,small,Normal,Normal,Pre Hypertension,Boderline,Excellent,optimal,Normal,Low
+21255,Buckingham,male,adult,small,obese,Normal,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+1001,Buckingham,female,adult,large,obese,Overweight,Normal,Normal,Too Low,suboptimal,Normal,Low
+4841,Louisa,female,Middle age,small,obese,Overweight,Stage1 Hypertension,Normal,Good,suboptimal,Normal,High
+15274,Buckingham,female,adult,small,Normal,Normal,Pre Hypertension,Normal,Good,optimal,Normal,Low
+15760,Buckingham,male,Middle age,large,overweight,Overweight,Normal,Normal,Too Low,suboptimal,Normal,Low
+2785,Buckingham,female,adult,small,obese,Normal,Stage2 Hypertension,Normal,Good,optimal,Normal,Low
+2777,Buckingham,male,adult,medium,Normal,Normal,Pre Hypertension,Normal,Good,optimal,Normal,Low
+20750,Louisa,male,adult,large,Normal,Overweight,Stage1 Hypertension,High,Too Low,suboptimal,Normal,High
+20309,Louisa,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+1285,Louisa,male,adult,medium,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+40792,Louisa,female,adult,small,obese,Normal,Normal,Boderline,Good,suboptimal,Normal,Low
+20368,Louisa,male,old,medium,obese,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Normal,High
+4500,Buckingham,female,Middle age,medium,overweight,Overweight,Pre Hypertension,High,Good,suboptimal,Normal,Low
+1036,Louisa,female,adult,medium,obese,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+1312,Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,Normal,Good,optimal,Normal,Low
+15792,Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+20365,Louisa,female,adult,small,overweight,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+17767,Buckingham,female,adult,large,overweight,Overweight,Normal,Boderline,Good,suboptimal,Normal,Low
+20775,Louisa,male,adult,small,Normal,Normal,Normal,Normal,Excellent,optimal,Normal,Low
+4796,Louisa,female,Middle age,small,obese,Overweight,Normal,Boderline,Good,suboptimal,Prediabetic,High
+4825,Buckingham,male,Middle age,medium,Normal,Normal,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+15502,Louisa,female,adult,small,obese,Overweight,Normal,High,Too Low,suboptimal,Normal,High
+40502,Louisa,female,adult,large,obese,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+4761,Louisa,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+15773,Louisa,male,old,large,obese,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Prediabetic,Low
+17819,Buckingham,female,Middle age,medium,overweight,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+20274,Louisa,male,adult,medium,obese,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+12501,Buckingham,female,adult,large,obese,Overweight,Stage1 Hypertension,Normal,Good,suboptimal,Normal,Low
+4842,Louisa,male,adult,medium,Normal,Normal,Pre Hypertension,Normal,Good,optimal,Normal,Low
+16000,Buckingham,female,Middle age,large,overweight,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+15512,Louisa,male,Middle age,large,overweight,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+21281,Buckingham,female,adult,small,obese,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+15501,Buckingham,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Diabetic,High
+20369,Louisa,male,Young Adult,medium,Normal,Normal,Normal,High,Excellent,optimal,Normal,Low
+15545,Louisa,female,adult,small,obese,Overweight,Normal,Boderline,Too Low,suboptimal,Normal,Low
+17766,Buckingham,male,adult,medium,Normal,Normal,Pre Hypertension,Boderline,Excellent,optimal,Normal,Low
+20774,Louisa,female,old,small,overweight,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+4843,Louisa,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,High
+15795,Buckingham,female,adult,small,obese,Overweight,Normal,Boderline,Good,suboptimal,Normal,Low
+20288,Louisa,male,Middle age,medium,obese,Normal,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+21257,Buckingham,male,old,medium,obese,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+40764,Louisa,male,Middle age,small,obese,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+4770,Louisa,male,adult,large,Normal,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+2004,Buckingham,male,Middle age,medium,obese,Overweight,Normal,Normal,Too Low,suboptimal,Diabetic,High
+41254,Louisa,female,adult,medium,obese,Overweight,Stage2 Hypertension,Normal,Good,optimal,Normal,Low
+20267,Louisa,male,adult,large,obese,Overweight,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+40787,Louisa,male,Middle age,medium,obese,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Normal,Low
+15800,Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,High,Good,suboptimal,Diabetic,High
+21320,Louisa,male,adult,medium,obese,Normal,Normal,Boderline,Too Low,suboptimal,Prediabetic,Low
+4000,Buckingham,female,old,large,obese,Overweight,Stage1 Hypertension,Boderline,Excellent,optimal,Normal,High
+15010,Louisa,male,adult,large,Normal,Overweight,Normal,Normal,Good,optimal,Normal,Low
+2787,Buckingham,female,Young Adult,medium,overweight,Normal,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+16001,Buckingham,female,Middle age,small,Normal,Underweight,Stage1 Hypertension,Boderline,Excellent,optimal,Normal,Low
+40774,Louisa,female,Middle age,medium,obese,Normal,Pre Hypertension,Boderline,Good,suboptimal,Normal,High
+12509,Buckingham,male,Middle age,large,overweight,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Prediabetic,High
+12768,Buckingham,male,old,medium,Normal,Underweight,Pre Hypertension,Boderline,Excellent,optimal,Normal,Low
+20314,Louisa,male,adult,small,Normal,Normal,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+12765,Buckingham,female,Middle age,small,obese,Normal,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+15279,Louisa,female,Middle age,small,overweight,Normal,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+1045,Louisa,male,adult,medium,Normal,Normal,Normal,Normal,Too Low,suboptimal,Normal,Low
+4517,Buckingham,male,adult,medium,obese,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Normal,Low
+21334,Louisa,female,Middle age,large,overweight,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+40785,Louisa,female,Young Adult,medium,obese,Overweight,Normal,Boderline,Good,suboptimal,Normal,Low
+17771,Buckingham,male,Middle age,medium,obese,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+40251,Louisa,male,adult,medium,Normal,Normal,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+41503,Louisa,female,old,medium,Normal,Normal,Stage2 Hypertension,High,Excellent,optimal,Normal,Low
+1501,Buckingham,female,adult,medium,obese,Overweight,Normal,High,Good,suboptimal,Normal,Low
+13254,Buckingham,female,adult,large,obese,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+20761,Louisa,female,old,small,overweight,Normal,Normal,Boderline,Excellent,optimal,Normal,Low
+20292,Louisa,female,adult,small,overweight,Overweight,Normal,Boderline,Excellent,suboptimal,Normal,Low
+15820,Buckingham,male,adult,large,obese,Overweight,Pre Hypertension,High,Excellent,suboptimal,Normal,Low
+20346,Louisa,male,old,medium,Normal,Normal,Pre Hypertension,Boderline,Too Low,suboptimal,Prediabetic,High
+4833,Buckingham,male,Middle age,large,Normal,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Prediabetic,Low
+20275,Louisa,female,old,large,overweight,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Normal,Low
+40773,Louisa,female,adult,small,overweight,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+1323,Buckingham,male,adult,large,obese,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Normal,Low
+17835,Buckingham,male,Young Adult,large,overweight,Overweight,Stage1 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+4767,Louisa,male,Middle age,large,Normal,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+1030,Louisa,female,adult,medium,obese,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+40253,Louisa,female,Middle age,medium,Normal,Overweight,Stage1 Hypertension,Normal,Good,optimal,Normal,Low
+15814,Buckingham,female,old,medium,overweight,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+41500,Louisa,male,adult,medium,Normal,Normal,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+15815,Buckingham,female,old,medium,obese,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+4793,Louisa,male,adult,large,Normal,Normal,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+17757,Buckingham,male,old,large,obese,Overweight,Normal,Normal,Good,optimal,Normal,Low
+1041,Louisa,male,Young Adult,medium,Normal,Normal,Normal,Boderline,Excellent,suboptimal,Normal,Low
+17800,Buckingham,female,Young Adult,small,overweight,Normal,Normal,Normal,Good,optimal,Normal,Low
+1000,Buckingham,female,Middle age,medium,Normal,Normal,Normal,Boderline,Good,suboptimal,Normal,Low
+21298,Buckingham,male,adult,small,Normal,Normal,Pre Hypertension,Boderline,Excellent,optimal,Normal,High
+15007,Louisa,male,Middle age,large,Normal,Overweight,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+1321,Buckingham,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Normal,Low
+41075,Louisa,female,Middle age,medium,obese,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+20298,Louisa,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+12006,Louisa,female,Middle age,medium,obese,Overweight,Pre Hypertension,High,Excellent,optimal,Diabetic,Low
+17791,Buckingham,female,old,small,overweight,Overweight,Stage1 Hypertension,Boderline,Excellent,optimal,Normal,Low
+10020,Buckingham,male,Middle age,large,obese,Overweight,Pre Hypertension,Normal,Too Low,suboptimal,Prediabetic,High
+12004,Louisa,female,adult,medium,obese,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+17818,Buckingham,male,Middle age,large,overweight,Normal,Normal,Normal,Too Low,suboptimal,Normal,Low
+20289,Louisa,female,adult,medium,Normal,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+3751,Buckingham,female,adult,medium,Normal,Overweight,Stage1 Hypertension,Normal,Excellent,optimal,Normal,Low
+4840,Louisa,male,Middle age,small,obese,Underweight,Stage1 Hypertension,High,Good,suboptimal,Normal,Low
+1008,Buckingham,male,adult,large,Normal,Overweight,Pre Hypertension,High,Excellent,suboptimal,Normal,Low
+1280,Buckingham,male,adult,large,obese,Overweight,Stage2 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+20312,Louisa,male,Middle age,medium,obese,Overweight,Pre Hypertension,High,Too Low,suboptimal,Normal,Low
+2756,Buckingham,female,adult,medium,Normal,Overweight,Normal,Boderline,Good,suboptimal,Normal,Low
+4506,Buckingham,female,Young Adult,medium,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+17751,Louisa,male,Middle age,medium,obese,Normal,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+2765,Buckingham,male,Middle age,large,obese,Overweight,Stage1 Hypertension,Boderline,Excellent,optimal,Normal,Low
+40784,Louisa,female,old,small,obese,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Diabetic,High
+1250,Buckingham,female,Middle age,large,obese,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Diabetic,High
+20361,Louisa,male,Middle age,small,Normal,Normal,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+21254,Buckingham,female,adult,large,obese,Overweight,Stage2 Hypertension,Normal,Good,optimal,Prediabetic,High
+20261,Buckingham,female,adult,small,overweight,Underweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+20278,Buckingham,male,Middle age,medium,Normal,Normal,Pre Hypertension,High,Good,suboptimal,Normal,Low
+41065,Louisa,female,Middle age,medium,overweight,Overweight,Stage1 Hypertension,Normal,Excellent,optimal,Normal,High
+17829,Buckingham,female,Middle age,large,Normal,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+20271,Louisa,female,adult,small,Normal,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+17756,Buckingham,male,adult,small,obese,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+20784,Buckingham,male,adult,small,Normal,Normal,Normal,Boderline,Good,suboptimal,Normal,Low
+12778,Buckingham,male,Young Adult,small,Normal,Normal,Normal,Normal,Excellent,optimal,Normal,Low
+1315,Buckingham,male,Middle age,medium,Normal,Normal,Pre Hypertension,Normal,Good,optimal,Normal,Low
+4823,Louisa,female,Young Adult,small,overweight,Normal,Normal,Normal,Good,suboptimal,Normal,Low
+1022,Buckingham,female,Middle age,small,obese,Overweight,Normal,High,Good,suboptimal,Normal,Low
+17816,Buckingham,male,Middle age,medium,Normal,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Diabetic,High
+4822,Louisa,female,Middle age,medium,Normal,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+17795,Buckingham,male,adult,large,Normal,Overweight,Normal,High,Good,suboptimal,Normal,Low
+15252,Buckingham,male,old,large,obese,Overweight,Stage2 Hypertension,High,Too Low,suboptimal,Normal,High
+4501,Buckingham,male,Middle age,large,obese,Normal,Stage2 Hypertension,Normal,Good,optimal,Normal,Low
+4835,Buckingham,male,adult,small,Normal,Normal,Stage1 Hypertension,Boderline,Excellent,optimal,Normal,Low
+12769,Buckingham,male,adult,large,overweight,Overweight,Stage2 Hypertension,High,Good,suboptimal,Prediabetic,Low
+15816,Buckingham,female,Middle age,small,Normal,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+1277,Buckingham,female,adult,small,Normal,Underweight,Stage1 Hypertension,Normal,Excellent,optimal,Normal,Low
+20329,Louisa,female,adult,medium,overweight,Overweight,Stage1 Hypertension,Normal,Good,optimal,Normal,Low
+21341,Louisa,female,Middle age,medium,overweight,Overweight,Pre Hypertension,Boderline,Excellent,optimal,Normal,Low
+20325,Louisa,female,adult,medium,obese,Overweight,Pre Hypertension,High,Good,suboptimal,Normal,Low
+40786,Louisa,male,old,medium,obese,Overweight,Stage1 Hypertension,Normal,Good,optimal,Normal,Low
+15271,Buckingham,female,Middle age,small,obese,Normal,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+17773,Buckingham,female,adult,small,Normal,Normal,Pre Hypertension,Normal,Good,optimal,Normal,Low
+17846,Buckingham,male,adult,small,obese,Overweight,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+12502,Buckingham,female,Middle age,small,overweight,Normal,Normal,Boderline,Too Low,suboptimal,Normal,Low
+17794,Buckingham,female,adult,medium,obese,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+17784,Buckingham,female,adult,medium,Normal,Overweight,Normal,Normal,Too Low,suboptimal,Normal,Low
+1035,Louisa,male,adult,medium,obese,Overweight,Normal,Normal,Too Low,suboptimal,Normal,Low
+12766,Buckingham,male,Middle age,small,Normal,Normal,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+16003,Buckingham,male,Middle age,large,obese,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Prediabetic,Low
+10000,Buckingham,male,Young Adult,small,Normal,Normal,Pre Hypertension,Normal,Good,optimal,Normal,Low
+15513,Louisa,male,old,large,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+14756,Buckingham,male,Middle age,large,Normal,Normal,Stage1 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+40755,Louisa,male,adult,small,obese,Normal,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+40775,Louisa,female,Middle age,small,overweight,Overweight,Normal,Boderline,Too Low,suboptimal,Prediabetic,High
+15761,Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,High,Too Low,suboptimal,Prediabetic,High
+40797,Louisa,female,adult,small,obese,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+1037,Louisa,female,Middle age,medium,obese,Overweight,Pre Hypertension,High,Too Low,suboptimal,Normal,Low
+15016,Louisa,female,adult,medium,overweight,Overweight,Stage1 Hypertension,Normal,Good,suboptimal,Normal,Low
+13250,Buckingham,male,Middle age,large,overweight,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Diabetic,High
+41037,Louisa,female,adult,medium,overweight,Overweight,Pre Hypertension,High,Good,suboptimal,Normal,Low
+2758,Buckingham,female,Middle age,large,obese,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+2762,Buckingham,female,old,medium,obese,Overweight,Pre Hypertension,High,Good,suboptimal,Normal,High
+2795,Buckingham,male,adult,medium,overweight,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+1002,Buckingham,female,Middle age,large,obese,Overweight,Stage2 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+17805,Buckingham,female,Middle age,large,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,High
+13501,Louisa,male,adult,medium,obese,Normal,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+17752,Louisa,female,old,large,obese,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Prediabetic,High
+15260,Buckingham,female,adult,medium,overweight,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+12002,Louisa,female,adult,small,obese,Normal,Stage2 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+15828,Buckingham,male,Middle age,medium,Normal,Normal,Normal,High,Good,suboptimal,Normal,Low
+41510,Louisa,female,adult,small,overweight,Normal,Stage2 Hypertension,Normal,Too Low,suboptimal,Diabetic,High
+15758,Buckingham,female,old,small,obese,Normal,Stage1 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+17755,Louisa,female,adult,medium,overweight,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+1005,Buckingham,male,Middle age,medium,overweight,Overweight,Pre Hypertension,High,Too Low,suboptimal,Normal,High
+20294,Louisa,male,Young Adult,small,Normal,Normal,Normal,Normal,Good,optimal,Normal,Low
+1271,Buckingham,female,old,medium,obese,Normal,Normal,Boderline,Good,suboptimal,Normal,Low
+15008,Louisa,female,adult,medium,obese,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+20754,Louisa,female,adult,medium,obese,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+20768,Buckingham,male,Middle age,small,Normal,Normal,Stage1 Hypertension,Normal,Good,optimal,Normal,Low
+41055,Louisa,male,adult,small,Normal,Normal,Normal,Normal,Too Low,suboptimal,Normal,Low
+4792,Louisa,female,adult,large,obese,Overweight,Normal,Normal,Good,suboptimal,Normal,Low
+20350,Louisa,female,Young Adult,small,overweight,Normal,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+4776,Louisa,male,old,large,Normal,Overweight,Normal,Normal,Good,suboptimal,Normal,Low
+1500,Buckingham,female,old,large,obese,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+1317,Buckingham,female,Young Adult,large,obese,Overweight,Normal,Normal,Good,optimal,Normal,Low
+17765,Buckingham,female,old,medium,obese,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+17813,Buckingham,female,adult,large,obese,Overweight,Normal,Normal,Excellent,optimal,Prediabetic,Low
+1252,Buckingham,male,old,large,overweight,Overweight,Stage1 Hypertension,Normal,Good,suboptimal,Normal,Low
+4818,Louisa,male,adult,large,obese,Overweight,Stage1 Hypertension,High,Excellent,suboptimal,Normal,Low
+15821,Buckingham,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,High,Good,suboptimal,Normal,Low
+41000,Louisa,male,Middle age,small,Normal,Normal,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+3750,Buckingham,female,Young Adult,medium,obese,Overweight,Normal,Normal,Excellent,optimal,Normal,Low
+4821,Louisa,male,adult,small,Normal,Normal,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+15017,Louisa,female,Middle age,small,overweight,Normal,Stage2 Hypertension,Normal,Too Low,optimal,Normal,Low
+2793,Buckingham,female,old,medium,obese,Normal,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+4783,Louisa,female,Young Adult,medium,Normal,Normal,Pre Hypertension,Boderline,Excellent,optimal,Normal,Low
+41752,Louisa,female,adult,medium,obese,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+15801,Buckingham,male,Middle age,medium,overweight,Normal,Pre Hypertension,Normal,Excellent,optimal,Diabetic,High
+2763,Buckingham,female,Young Adult,small,overweight,Overweight,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+13505,Buckingham,male,old,large,obese,Overweight,Stage1 Hypertension,High,Too Low,suboptimal,Diabetic,High
+41078,Louisa,male,old,large,obese,Normal,Normal,Boderline,Excellent,optimal,Normal,Low
+21347,Louisa,male,old,large,obese,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+4786,Louisa,female,adult,medium,Normal,Overweight,Normal,High,Excellent,suboptimal,Normal,Low
+3250,Buckingham,female,Young Adult,large,obese,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+15762,Buckingham,male,Middle age,medium,obese,Normal,Normal,Normal,Excellent,optimal,Normal,Low
+15518,Louisa,male,old,large,overweight,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+1003,Buckingham,male,old,large,Normal,Underweight,Normal,Normal,Too Low,suboptimal,Normal,Low
+12507,Buckingham,female,Middle age,medium,obese,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+17760,Buckingham,female,old,large,obese,Overweight,Stage1 Hypertension,High,Good,suboptimal,Normal,Low
+41063,Louisa,male,adult,large,obese,Overweight,Stage1 Hypertension,High,Good,suboptimal,Normal,Low
+15812,Buckingham,female,adult,small,Normal,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+1304,Buckingham,male,Middle age,medium,obese,Normal,Stage2 Hypertension,High,Too Low,suboptimal,Diabetic,High
+15522,Louisa,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+1309,Buckingham,male,adult,medium,obese,Normal,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+15802,Buckingham,male,adult,small,Normal,Normal,Normal,Normal,Excellent,optimal,Normal,Low
+20782,Buckingham,male,Middle age,small,Normal,Normal,Stage1 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+3752,Buckingham,male,Middle age,small,Normal,Underweight,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+17762,Buckingham,male,adult,large,obese,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+4751,Louisa,male,adult,small,obese,Overweight,Stage2 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+15546,Louisa,male,old,small,Normal,Normal,Pre Hypertension,Normal,Good,optimal,Diabetic,Low
+41034,Louisa,female,adult,small,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+2770,Buckingham,female,old,large,obese,Overweight,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+17002,Louisa,male,Middle age,large,Normal,Overweight,Stage2 Hypertension,Normal,Good,optimal,Normal,Low
+41029,Louisa,male,Middle age,large,obese,Overweight,Stage1 Hypertension,High,Too Low,suboptimal,Diabetic,High
+15517,Louisa,male,adult,medium,Normal,Normal,Stage1 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+14758,Buckingham,female,adult,small,obese,Overweight,Normal,Normal,Good,optimal,Normal,Low
+41004,Louisa,male,Middle age,medium,obese,Underweight,Stage2 Hypertension,High,Excellent,optimal,Normal,Low
+2778,Buckingham,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,High,Too Low,suboptimal,Prediabetic,High
+41021,Louisa,female,Middle age,medium,obese,Normal,Normal,Normal,Good,suboptimal,Normal,Low
+15264,Buckingham,female,Young Adult,small,obese,Overweight,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+20306,Louisa,male,Middle age,medium,obese,Normal,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+1016,Buckingham,male,Middle age,large,Normal,Normal,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+17802,Buckingham,female,adult,medium,obese,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+15527,Louisa,female,adult,medium,obese,Overweight,Normal,Normal,Good,suboptimal,Normal,Low
+15540,Louisa,female,old,small,Normal,Normal,Stage1 Hypertension,Boderline,Excellent,optimal,Normal,Low
+15782,Buckingham,male,old,small,Normal,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+20318,Louisa,female,Young Adult,small,overweight,Normal,Normal,Normal,Good,suboptimal,Normal,Low
+4801,Louisa,male,adult,medium,obese,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+17814,Buckingham,male,adult,medium,obese,Overweight,Stage1 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+4802,Louisa,female,adult,medium,obese,Overweight,Normal,High,Excellent,optimal,Normal,Low
+1254,Buckingham,female,adult,large,obese,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Diabetic,High
+15276,Louisa,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,Boderline,Too Low,suboptimal,Normal,High
+41001,Louisa,male,Middle age,large,Normal,Overweight,Stage1 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+10001,Buckingham,female,Young Adult,large,obese,Overweight,Normal,Normal,Too Low,suboptimal,Normal,Low
+13503,Buckingham,female,Middle age,large,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+21318,Louisa,female,adult,medium,obese,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+21322,Louisa,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,High,Excellent,optimal,Normal,Low
+17841,Buckingham,female,adult,medium,Normal,Normal,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+4753,Louisa,female,adult,medium,overweight,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+20332,Louisa,female,adult,small,Normal,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+17830,Buckingham,female,adult,medium,overweight,Normal,Normal,Boderline,Good,suboptimal,Normal,Low
+10012,Louisa,female,Young Adult,medium,obese,Overweight,Normal,Normal,Good,suboptimal,Normal,Low
+21323,Louisa,female,Young Adult,small,obese,Overweight,Normal,Normal,Too Low,suboptimal,Normal,Low
+15797,Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,Boderline,Too Low,suboptimal,Diabetic,High
+4758,Louisa,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,Normal,Good,suboptimal,Normal,Low
+41003,Louisa,male,adult,medium,Normal,Overweight,Pre Hypertension,High,Excellent,suboptimal,Normal,Low
+4780,Louisa,female,adult,medium,Normal,Overweight,Normal,Boderline,Excellent,optimal,Normal,Low
+41506,Louisa,male,Middle age,medium,Normal,Overweight,Pre Hypertension,High,Good,suboptimal,Diabetic,High
+2753,Buckingham,female,Middle age,medium,overweight,Overweight,Stage1 Hypertension,Normal,Good,optimal,Normal,Low
+20352,Louisa,female,adult,small,overweight,Normal,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+40804,Louisa,female,Young Adult,medium,Normal,Overweight,Stage2 Hypertension,Normal,Good,optimal,Normal,Low
+4790,Louisa,male,old,medium,obese,Overweight,Stage2 Hypertension,Boderline,Too Low,suboptimal,Diabetic,High
+4515,Buckingham,female,Middle age,large,obese,Overweight,Stage2 Hypertension,High,Too Low,suboptimal,Normal,Low
+20272,Louisa,female,adult,large,overweight,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+1502,Buckingham,female,Middle age,medium,obese,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Prediabetic,Low
+15277,Louisa,male,old,large,obese,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+15500,Buckingham,male,Middle age,medium,overweight,Normal,Stage1 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+4759,Louisa,male,old,large,obese,Overweight,Normal,Boderline,Good,suboptimal,Normal,Low
+40500,Louisa,male,adult,large,obese,Overweight,Pre Hypertension,Boderline,Excellent,suboptimal,Normal,Low
+15520,Louisa,male,adult,medium,Normal,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+40772,Louisa,female,Middle age,small,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+12506,Buckingham,male,Middle age,small,Normal,Normal,Stage2 Hypertension,Normal,Good,optimal,Normal,Low
+20343,Louisa,female,adult,medium,overweight,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+12754,Louisa,female,adult,medium,Normal,Overweight,Normal,High,Good,suboptimal,Normal,Low
+16005,Buckingham,male,Young Adult,medium,obese,Overweight,Pre Hypertension,Normal,Excellent,optimal,Normal,Low
+20293,Louisa,female,adult,medium,Normal,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+15521,Louisa,male,adult,medium,Normal,Overweight,Pre Hypertension,Normal,Too Low,suboptimal,Normal,Low
+17808,Buckingham,male,old,medium,obese,Normal,Stage2 Hypertension,High,Too Low,suboptimal,Normal,Low
+20765,Buckingham,female,adult,medium,obese,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+17790,Buckingham,female,Young Adult,medium,overweight,Overweight,Normal,Normal,Good,suboptimal,Normal,Low
+20290,Louisa,female,Middle age,small,overweight,Normal,Stage2 Hypertension,High,Excellent,suboptimal,Normal,Low
+1301,Buckingham,female,adult,medium,obese,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+12763,Buckingham,male,Middle age,medium,obese,Overweight,Stage1 Hypertension,Boderline,Excellent,optimal,Normal,High
+20783,Buckingham,male,old,large,Normal,Overweight,Stage1 Hypertension,Normal,Too Low,suboptimal,Prediabetic,High
+41041,Louisa,female,Middle age,large,obese,Overweight,Stage2 Hypertension,High,Good,suboptimal,Diabetic,High
+21346,Louisa,female,adult,medium,obese,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+21338,Louisa,female,Young Adult,small,Normal,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+21345,Louisa,female,adult,medium,Normal,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+40789,Louisa,female,old,small,obese,Overweight,Stage2 Hypertension,High,Excellent,optimal,Prediabetic,High
+40754,Louisa,male,old,large,obese,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+15519,Louisa,female,old,large,Normal,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+15529,Louisa,female,Middle age,medium,overweight,Normal,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+15250,Buckingham,female,adult,small,overweight,Normal,Normal,Normal,Good,suboptimal,Normal,Low
+4750,Louisa,female,Middle age,small,obese,Overweight,Pre Hypertension,High,Good,suboptimal,Normal,Low
+15514,Louisa,female,old,medium,obese,Overweight,Stage2 Hypertension,High,Excellent,suboptimal,Normal,High
+15779,Louisa,male,old,small,obese,Underweight,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+20315,Louisa,female,Middle age,small,overweight,Normal,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+20367,Louisa,female,old,medium,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+1282,Buckingham,female,adult,medium,overweight,Overweight,Pre Hypertension,High,Good,suboptimal,Normal,Low
+12751,Louisa,male,Middle age,medium,Normal,Overweight,Stage2 Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+15798,Buckingham,male,adult,small,Normal,Normal,Pre Hypertension,Normal,Good,optimal,Normal,Low
+15799,Buckingham,female,adult,medium,Normal,Overweight,Stage2 Hypertension,Normal,Excellent,optimal,Normal,Low
+40751,Louisa,male,adult,medium,Normal,Overweight,Stage2 Hypertension,Boderline,Excellent,suboptimal,Normal,Low
+2773,Buckingham,female,Middle age,large,obese,Overweight,Pre Hypertension,Boderline,Good,suboptimal,Diabetic,High
+17781,Buckingham,female,old,large,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,High
+20355,Louisa,female,adult,medium,overweight,Overweight,Normal,High,Too Low,suboptimal,Normal,Low
+40803,Louisa,female,adult,medium,Normal,Overweight,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+17828,Buckingham,male,old,large,overweight,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+41036,Louisa,male,adult,medium,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,Low
+41035,Louisa,male,adult,medium,Normal,Overweight,Pre Hypertension,Boderline,Too Low,suboptimal,Normal,Low
+12005,Louisa,female,old,small,obese,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+16004,Buckingham,female,adult,medium,overweight,Overweight,Stage1 Hypertension,High,Good,suboptimal,Normal,Low
+17772,Buckingham,female,adult,medium,Normal,Normal,Normal,Boderline,Good,suboptimal,Normal,Low
+21333,Louisa,male,Middle age,large,Normal,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+20335,Louisa,female,adult,small,overweight,Overweight,Normal,Normal,Good,optimal,Diabetic,High
+15515,Louisa,male,Young Adult,small,Normal,Normal,Normal,Boderline,Good,suboptimal,Normal,Low
+41039,Louisa,female,adult,medium,Normal,Overweight,Stage2 Hypertension,Normal,Good,optimal,Normal,Low
+4763,Louisa,female,old,medium,obese,Overweight,Pre Hypertension,Boderline,Excellent,optimal,Normal,Low
+1313,Buckingham,male,adult,medium,Normal,Overweight,Normal,Normal,Excellent,optimal,Normal,Low
+4772,Louisa,female,adult,small,obese,Normal,Normal,Normal,Good,suboptimal,Normal,Low
+15516,Louisa,female,adult,small,Normal,Overweight,Normal,Normal,Good,suboptimal,Normal,Low
+1303,Buckingham,male,Middle age,large,Normal,Normal,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+1256,Buckingham,female,old,large,obese,Overweight,Stage1 Hypertension,High,Good,suboptimal,Normal,Low
+20773,Louisa,male,Middle age,small,Normal,Underweight,Pre Hypertension,Boderline,Excellent,optimal,Normal,Low
+40501,Louisa,male,Middle age,small,obese,Normal,Stage2 Hypertension,Boderline,Excellent,optimal,Normal,Low
+4789,Louisa,female,Middle age,large,overweight,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+4794,Louisa,female,adult,large,overweight,Overweight,Pre Hypertension,Normal,Good,suboptimal,Normal,Low
+4795,Louisa,male,Middle age,medium,obese,Normal,Pre Hypertension,Normal,Good,optimal,Normal,Low
+20313,Louisa,male,Middle age,medium,obese,Normal,Stage2 Hypertension,High,Too Low,suboptimal,Diabetic,High
+15013,Louisa,female,old,medium,overweight,Overweight,Stage1 Hypertension,High,Good,suboptimal,Normal,Low
+41507,Louisa,female,Middle age,medium,Normal,Overweight,Stage2 Hypertension,High,Good,suboptimal,Normal,Low
+2757,Buckingham,female,old,large,obese,Overweight,Stage1 Hypertension,Boderline,Good,suboptimal,Normal,Low
+1316,Buckingham,male,old,large,obese,Overweight,Stage1 Hypertension,Normal,Good,suboptimal,Diabetic,High
+1029,Louisa,female,adult,medium,overweight,Overweight,Normal,Boderline,Too Low,suboptimal,Normal,Low
+12760,Buckingham,female,Middle age,small,Normal,Normal,Stage1 Hypertension,Boderline,Excellent,optimal,Normal,Low
+21359,Louisa,male,Middle age,large,obese,Overweight,Stage2 Hypertension,Boderline,Good,suboptimal,Normal,High
+15278,Louisa,male,Middle age,large,obese,Overweight,Pre Hypertension,Normal,Too Low,suboptimal,Diabetic,High
+20260,Buckingham,female,Young Adult,medium,obese,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Normal,Low
+15777,Louisa,female,Middle age,medium,obese,Overweight,Stage1 Hypertension,High,Excellent,optimal,Normal,Low
+2775,Buckingham,female,old,large,obese,Overweight,Stage1 Hypertension,High,Good,suboptimal,Diabetic,High
+10016,Buckingham,female,old,large,obese,Overweight,Stage2 Hypertension,Boderline,Excellent,suboptimal,Normal,Low
+17776,Buckingham,female,adult,small,obese,Normal,Pre Hypertension,Boderline,Good,suboptimal,Normal,Low
+40762,Louisa,male,Middle age,large,obese,Overweight,Stage1 Hypertension,High,Too Low,suboptimal,Diabetic,High
+1011,Buckingham,male,adult,medium,obese,Overweight,Stage2 Hypertension,Normal,Good,suboptimal,Normal,Low
+1024,Louisa,female,Middle age,medium,obese,Overweight,Pre Hypertension,High,Good,suboptimal,Normal,Low
+20340,Louisa,female,adult,medium,Normal,Overweight,Pre Hypertension,Normal,Good,optimal,Normal,Low
+12761,Buckingham,female,old,small,obese,Normal,Normal,High,Excellent,optimal,Normal,Low
+40799,Louisa,female,Middle age,medium,overweight,Overweight,Stage2 Hypertension,Normal,Too Low,suboptimal,Normal,Low

@@ -1,0 +1,91 @@
+Rule 1 :
+	 - N_vars: 2
+	 - Coverage: 0.870748
+	 - Significance: 11.477537
+	 - Unusualness: 0.10727
+	 - Accuracy: 0.949612
+	 - CSupport: 0.829932
+	 - FSupport: 0.829932
+	 - CConfidence: 0.953125
+	 - FConfidence: 0.953125
+	 - True Positive Rate: 0.972112
+	 - False Positive Rate: 0.27907 
+
+Rule 2 :
+	 - N_vars: 4
+	 - Coverage: 0.214286
+	 - Significance: 8.652875
+	 - Unusualness: 0.168367
+	 - Accuracy: 0.984615
+	 - CSupport: 0.214286
+	 - FSupport: 0.214286
+	 - CConfidence: 1
+	 - FConfidence: 1
+	 - True Positive Rate: 0.250996
+	 - False Positive Rate: 0 
+
+Rule 3 :
+	 - N_vars: 3
+	 - Coverage: 0.520408
+	 - Significance: 7.047827
+	 - Unusualness: 0.238165
+	 - Accuracy: 0.948387
+	 - CSupport: 0.496599
+	 - FSupport: 0.496599
+	 - CConfidence: 0.954248
+	 - FConfidence: 0.954248
+	 - True Positive Rate: 0.581673
+	 - False Positive Rate: 0.162791 
+
+Rule 4 :
+	 - N_vars: 2
+	 - Coverage: 0.659864
+	 - Significance: 0.974488
+	 - Unusualness: 0.041649
+	 - Accuracy: 0.188776
+	 - CSupport: 0.122449
+	 - FSupport: 0.122449
+	 - CConfidence: 0.185567
+	 - FConfidence: 0.185567
+	 - True Positive Rate: 0.837209
+	 - False Positive Rate: 0.629482 
+
+Rule 5 :
+	 - N_vars: 2
+	 - Coverage: 0.078231
+	 - Significance: 29.437457
+	 - Unusualness: 0.065841
+	 - Accuracy: 0.88
+	 - CSupport: 0.071429
+	 - FSupport: 0.071429
+	 - CConfidence: 0.913043
+	 - FConfidence: 0.913043
+	 - True Positive Rate: 0.488372
+	 - False Positive Rate: 0.007968 
+
+Rule 6 :
+	 - N_vars: 3
+	 - Coverage: 0.064626
+	 - Significance: 31.725397
+	 - Unusualness: 0.060449
+	 - Accuracy: 0.952381
+	 - CSupport: 0.064626
+	 - FSupport: 0.064626
+	 - CConfidence: 1
+	 - FConfidence: 1
+	 - True Positive Rate: 0.44186
+	 - False Positive Rate: 0 
+
+Global:
+	 - N_rules: 6
+	 - N_vars: 2.666667
+	 - Coverage: 0.40136
+	 - Significance: 14.88593
+	 - Unusualness: 0.113624
+	 - Accuracy: 0.817295
+	 - CSupport: 0.965986
+	 - FSupport: 0.299887
+	 - FConfidence: 0.83433
+	 - CConfidence: 0.83433
+	 - True Positive Rate: 0.59537
+	 - False Positive Rate: 0.179885
